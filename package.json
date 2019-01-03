@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/asdFletcher/08-socket.io#readme",
   "dependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
   }
 }
